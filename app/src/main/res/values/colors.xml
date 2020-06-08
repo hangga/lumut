@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- App unique color -->
+
+    <!-- Sets -->
+
+    <!-- Gradient mata mata game two colors sets -->
+
+    <!--Transparent Color (all color transparent)-->
+
+    <!-- Find color variation at http://www.color-hex.com/color -->
+    <!-- White colors -->
+    <color name="white">#ffffff</color>
+
+    <!-- Black colors -->
+
+    <!-- Pink colors -->
+
+    <!-- Yellow colors -->
+
+    <!-- Orange colors -->
+
+    <!-- Red colors -->
+
+    <!-- Purple colors -->
+
+    <!-- Blue colors -->
+    <!-- darker use case is when pressed=true -->
+
+    <!-- Color for Create Pantulan -->
+
+    <!-- Multimedia Create -->
+
+    <!-- Color for StepperIndicatorViewPager -->
+
+    <color name="white_transparent_20">#33ffffff</color>
+
+    <!-- basic colors (all color except grayscale color)-->
+    <!--<color name="blue">#036DDF</color>-->
+    <color name="blue_transparant">#E60071BC</color>
+    <color name="blue_hash">#FF2196F3</color>
+    <color name="blue_gray">#FFaec9d5</color>
+    <color name="blue_gray_light">#FFaec9d7</color>
+    <color name="blue_button">#FF0277BD</color>
+    <color name="blue_button_selected">#FF005f97</color>
+    <color name="blue_light">#FF4095CD</color>
+    <color name="blue_disabled">#FF2F7FBE</color>
+    <!--<color name="pink">#FF73EC</color>
+    <color name="violet">#8719FF</color>
+    <color name="red">#E53935</color>
+    <color name="red_dark">#d50000</color>
+    <color name="yellow_dark">#FDC400</color>
+    <color name="yellow">#E6C100</color>
+    <color name="orange">#EC980E</color>
+    <color name="green">#7ED321</color>
+    <color name="grey">#78909C</color>
+    <color name="gray">#ADADAD</color>-->
+    <color name="gray_gallery">#d8d8d8</color>
+
+    <!-- Seekbar color -->
+    <color name="seekbar_custom_red">#FFE63935</color>
+    <color name="seekbar_custom_red_dark">#FFBC4458</color>
+    <color name="seekbar_custom_red_violet">#FF895076</color>
+    <color name="seekbar_custom_blue_violet">#FF5f5995</color>
+    <color name="seekbar_custom_blue_dark">#FF3363BA</color>
+    <color name="seekbar_custom_blue">#FF086BE0</color>
+
+    <color name="gradient_gray">#4D111111</color>
+
+
+    <!--Primary Color (compat color)-->
+    <color name="statusBarColor">@color/white_stroke</color>
+    <color name="windowBackground">@color/colorPrimary</color>
+    <color name="colorPrimary">@color/white</color>
+    <color name="colorPrimaryDark">#FFf2f2f2</color>
+    <color name="colorAccent">#FFef5350</color>
+    <color name="colorAccentPressed">#FFF75C59</color>
+    <color name="colorAccentDark">#FFba3230</color>
+    <color name="colorAccent2">#FF8d91ff</color> <!-- #8d91ff -->
+    <color name="textColorPrimaryDark">#FF4A4A4A</color>
+    <color name="textColorSecondaryDark">#FF909090</color>
+    <color name="textColorPrimaryLight">@color/white</color>
+    <color name="textColorSecondaryLight">#FFf5f5f5</color>
+    <color name="backgroundLight">@color/white</color>
+    <color name="backgroundLightSecondary">#FFeeeeee</color>
+    <color name="backgroundDark">@color/textColorPrimaryDark</color>
+    <color name="backgroundDarkSecondary">@color/textColorSecondaryDark</color>
+    <color name="iconPrimaryLight">#FFD8D8D8</color>
+    <color name="iconSecondaryLight">@color/textColorSecondaryLight</color>
+    <color name="iconPrimaryDark">@color/textColorPrimaryDark</color>
+    <color name="iconSecondaryDark">#FFd8d8d8</color>
+    <color name="state_off">@color/iconSecondaryDark</color>
+    <color name="state_on">@color/colorAccent</color>
+    <color name="divider">#FFf2f2f2</color>
+    <color name="divider_2">#1F000000</color>
+    <color name="divider_3">#e9e9e9</color>
+    <color name="separator_line">#FF9B9B9B</color>
+    <color name="disabled">#9B9B9B</color>
+    <color name="flat_button_disabled">#F8E4BC</color>
+    <color name="outlineColor">#F5F5F5</color>
+    <color name="outlineColor2">#dadada</color>
+    <color name="outlineColor3">#979797</color>
+
+    <!-- App unique color -->
+    <color name="color_child">#70C5AE</color>
+    <color name="gender_woman">#FF5894</color>
+    <color name="gender_man">#067FC5</color>
+    <color name="color_young">#03A69C</color>
+    <color name="color_mature">#0E79AF</color>
+    <color name="color_mature2">#0071BC</color>
+    <color name="color_old">#7185A5</color>
+    <color name="toska">#00B6C1</color>
+    <color name="grey_light_2">#e0e0e0</color>
+    <color name="gold">#F5A623</color>
+    <color name="gold_2">#FFBC20</color>
+    <color name="gold_2_transparent">#EDFFBC20</color>
+    <color name="gold_2_transparent_darker">#F2FFBC20</color>
+    <color name="gold_3">#ffd370</color>
+    <color name="gold_4">#F7B500</color>
+    <color name="gold_item_section_berantai">#FCDF0F</color>
+    <color name="gold_leaderboard">#EAAF25</color>
+    <color name="dot_unselected_color_1">#b43e3c</color>
+    <color name="create_pantun_no_challlenge_accent_color">#FFBC20</color>
+    <color name="create_pantun_tebak_angka_accent_color">#70AEEE</color>
+
+    <!-- Sets -->
+    <color name="bgLight1">#f0f0f0</color>
+    <color name="textColorDark1">#afafaf</color>
+
+    <!-- Gradient mata mata game two colors sets -->
+    <color name="grdnt_1_top">#FFAC9E</color>
+    <color name="grdnt_1_bottom">#FBC69F</color>
+    <color name="grdnt_2_top">#2DAFCC</color>
+    <color name="grdnt_2_bottom">#56D6E3</color>
+    <color name="grdnt_3_top">#3C4E98</color>
+    <color name="grdnt_3_bottom">#3C4E98</color>
+    <color name="grdnt_4_top">#9D6CF2</color>
+    <color name="grdnt_4_bottom">#D07AFE</color>
+    <color name="grdnt_5_top">#7391D7</color>
+    <color name="grdnt_5_bottom">#88B8FB</color>
+    <color name="grdnt_6_top">#EE7FCB</color>
+    <color name="grdnt_6_bottom">#EE97CB</color>
+
+    <!--Transparent Color (all color transparent)-->
+    <color name="accent_transparent">#b4ef5350</color>
+    <color name="black_transparent">#88000000</color>
+    <color name="black_transparent_20_percent">#33000000</color>
+    <color name="black_transparent_50_percent">#80000000</color>
+    <color name="black_transparent_70_percent">#B3000000</color>
+    <color name="white_transparent">#b9ffffff</color>
+
+    <!-- Find color variation at http://www.color-hex.com/color -->
+    <!-- White colors -->
+    <color name="white_stroke">#F2F2F2</color>
+    <color name="white2">#e5e5e5</color>
+    <color name="white3">#cccccc</color>
+    <color name="white4">#b2b2b2</color>
+    <color name="white5">#999999</color>
+    <color name="whiteF9">#F9F9F9</color>
+    <color name="whiteF6">#F6F6F6</color>
+    <color name="white_create">#FBFBFB</color>
+
+    <!-- Black colors -->
+    <color name="black">#000000</color>
+    <color name="black2">#191919</color>
+    <color name="black3">#323232</color>
+    <color name="black4">#4c4c4c</color>
+    <color name="black5">#666666</color>
+    <color name="black_create">#2D2D2D</color>
+
+    <!-- Gray colors -->
+    <color name="gray">#808080</color>
+    <color name="gray2">#737373</color>
+    <color name="gray3">#666666</color>
+    <color name="gray4">#595959</color>
+    <color name="gray5">#4c4c4c</color>
+    <color name="gray6">#9B9B9B</color>
+    <color name="gray7">#bdbdbd</color>
+    <color name="gray8">#E9E9E9</color>
+    <color name="gray_9">#1F000000</color>
+    <color name="gray_create">#9b9b9b</color>
+    <color name="gray_c1">#c1c1c1</color>
+    <color name="gray_2c">#2c2c2c</color>
+    <color name="gray_29">#292929</color>
+    <color name="gray_81">#818181</color>
+    <color name="gray_ab">#ababab</color>
+    <color name="gray_cf">#cfcfcf</color>
+    <color name="section_banner_color">#D0D9F0</color>
+
+    <!-- Brown colors -->
+    <color name="brown">#795548</color>
+
+    <!-- Green colors -->
+    <color name="green">#008000</color>
+    <color name="green2">#198c19</color>
+    <color name="green3">#329932</color>
+    <color name="green4">#4ca64c</color>
+    <color name="green5">#66b266</color>
+    <color name="green_material">#1bb869</color>
+    <color name="greenSuccess">#2FC15D</color>
+
+    <!-- Pink colors -->
+    <color name="pink">#ffc0cb</color>
+    <color name="pink2">#ffc6d0</color>
+    <color name="pink3">#ffccd5</color>
+    <color name="pink4">#ffd2da</color>
+    <color name="pink5">#ffd9df</color>
+    <color name="pink_material">#ea97fb</color>
+
+    <!-- Yellow colors -->
+    <color name="yellow">#ffff00</color>
+    <color name="yellow2">#ffff19</color>
+    <color name="yellow3">#ffff32</color>
+    <color name="yellow4">#ffff4c</color>
+    <color name="yellow5">#ffff66</color>
+    <color name="yellow_material">#f6b63a</color>
+
+    <!-- Orange colors -->
+    <color name="orange">#ffa500</color>
+    <color name="orange2">#ffae19</color>
+    <color name="orange3">#ffb732</color>
+    <color name="orange4">#ffc04c</color>
+    <color name="orange5">#ffc966</color>
+    <color name="orange_material">#ef8642</color>
+
+    <!-- Red colors -->
+    <color name="red">#ff0000</color>
+    <color name="red2">#ff1919</color>
+    <color name="red3">#ff3232</color>
+    <color name="red4">#ff4c4c</color>
+    <color name="red5">#ff6666</color>
+    <color name="red_material">#e44549</color>
+    <color name="red_material_disable">#F7E1E3</color>
+    <color name="red_versus">#EF5350</color>
+    <color name="red_favorite">#E02020</color>
+    <color name="red_dark">#D50000</color>
+    <color name="red_dark_2">#c1423f</color>
+    <color name="red_create">#ef5350</color>
+    <color name="red_circle">#FFB82623</color>
+    <color name="red_error">#E44946</color>
+
+    <!-- Purple colors -->
+    <color name="purple">#800080</color>
+    <color name="purple2">#8c198c</color>
+    <color name="purple3">#993299</color>
+    <color name="purple4">#a64ca6</color>
+    <color name="purple5">#b266b2</color>
+    <color name="purple_material">#bf4e79</color>
+
+    <!-- Blue colors -->
+    <color name="blue">#0000ff</color>
+    <color name="blue2">#1919ff</color>
+    <color name="blue3">#3232ff</color>
+    <color name="blue4">#4c4cff</color>
+    <color name="blue5">#6666ff</color>
+    <color name="blue6">#297086</color>
+    <color name="blue7">#45bbe0</color>
+    <color name="blue8">#2384CC</color>
+    <color name="blue_radio_button">#00C5ED</color>
+    <color name="blue_radio_button_1">#009688</color>
+    <color name="blue_material">#45bbe0</color>
+    <color name="blue_material_darker">#399cbd</color>
+    <color name="quick_action_shadow_color">#64000000
+    </color> <!-- darker use case is when pressed=true -->
+
+    <!-- Color for Create Pantulan -->
+    <color name="create_button_inactive">#FF9B9B9B</color>
+    <color name="create_button_active">#FFEF5350</color>
+    <color name="color_image_duel">#FFF2F2F2</color>
+    <color name="color_image_poling">#FFF2F2F2</color>
+    <color name="color_poling_counter">#FF4A4A4A</color>
+    <color name="color_create_pantulan">#FFFBFBFB</color>
+    <color name="color_tombol_poling">#FF4A4A4A</color>
+    <color name="color_dialog_pilih_warna">#4A4A4A</color>
+
+    <!-- Multimedia Create -->
+    <color name="gambar_multimedia_color">#4a4a4a</color>
+
+    <color name="choise_red">#F16C76</color>
+    <color name="choise_blue_jeans">#5DCBED</color>
+    <color name="choise_coral_ref">#FD8263</color>
+    <color name="choise_deep_blue_jeans">#70AEEE</color>
+    <color name="choise_yellow">#FED568</color>
+    <color name="choise_purple_blue">#BBA7EE</color>
+    <color name="choise_medium_spring_bud">#ACD87D</color>
+    <color name="choise_pastel_magenta">#F19CCA</color>
+    <color name="choise_medium_torqouise">#51D5BA</color>
+    <color name="choise_apricot">#F3D1B3</color>
+
+    <color name="color_title_dialog_informasi">#FF4A4A4A</color>
+    <color name="color_button_dialog_informasi">#FFEF5350</color>
+    <color name="color_konten_email_dialog_informasi">#FF4A4A4A</color>
+    <color name="color_text_history_transaction">#FF4A4A4A</color>
+    <color name="color_dialog_logout_content_teks">#FF4A4A4A</color>
+    <color name="color_text_upcoming_feature">#FF4A4A4A</color>
+
+    <color name="color_background_riwayat_mozaik">#FFFAFAFA</color>
+    <color name="color_background_riwayat_mozaik_juga">#F7F7F7</color>
+    <color name="color_judul_riwayat_mozaik">#FF4A4A4A</color>
+
+    <color name="color_yellow_item_hadiah_mozaik">#FFfcbf4b</color>
+    <color name="color_gray_item_hadiah_mozaik">#FFededed</color>
+    <color name="color_white_item_hadiah_mozaik">#FFf1f1f1</color>
+    <color name="color_red_mozaik_live">#FFef5350</color>
+
+    <color name="color_yellow_item_beranda_mozaik">#f5a623</color>
+    <color name="color_gray_item_beranda_mozaik">#4a4a4a</color>
+    <color name="color_gray_tantangan_mozaik">#4a4a4a</color>
+    <color name="color_zen_text">#FF4A4A4A</color>
+    <color name="voucher_text_color">#FF4A4A4A</color>
+    <color name="color_peringkat_text">#FF4A4A4A</color>
+    <color name="color_daya_transfer">#4a4a4a</color>
+    <color name="flat_button_disable_color">#9b9b9b</color>
+    <color name="comic_detail_color">#4a4a4a</color>
+    <color name="load_web_color">#14000000</color>
+    <color name="detail_faq_text_color">#4a4a4a</color>
+    <color name="content_faq_text_color">#4a4a4a</color>
+    <color name="tantangan_mozaik_separator_color">#d4d4d4</color>
+    <color name="fakta_mozaik_text_color">#4a4a4a</color>
+    <color name="transfer_daya_text_color">#9b9b9b</color>
+    <color name="transfer_daya_hint_text_color">#9b9b9b</color>
+    <color name="transfer_daya_hint_color">#4a4a4a</color>
+    <color name="text_input_edit_text_underline_color">#e9e9e9</color>
+    <color name="color_text_hadiah_tantangan">#565656</color>
+    <color name="color_text_tantangan_hadiah">#4a4a4a</color>
+    <color name="selected_item_dot">#ef5350</color>
+    <color name="non_selected_item_dot">#e0e0e0</color>
+    <color name="message_text_daya_transaction">#4a4a4a</color>
+    <color name="peringkat_first">#4a4a4a</color>
+
+    <!-- Color for StepperIndicatorViewPager -->
+    <color name="sivp_default_circle_color">#b3bdc2</color>
+
+    <color name="sivp_default_line_color">#b3bdc2</color>
+    <color name="sivp_default_text_color">#000</color>
+    <color name="riwayat_mozaik_empty_color">#4a4a4a</color>
+    <color name="sticky_peringkat_gaib">#f0f0f0</color>
+    <color name="sticky_peringkat_gaib_text_color">#4a4a4a</color>
+
+    <color name="background_random_clue">#f5f5f5</color>
+    <color name="background_trans40">#66ffffff</color>
+
+    <color name="shimmer">#EDEDED</color>
+    <color name="title_search">#ACACAC</color>
+    <color name="hashtag_count">#4D4D4D</color>
+    <color name="black54">#8A000000</color>
+
+    <color name="radio">#FF00C5ED</color>
+    <color name="radioSecond">#797979</color>
+    <color name="background_riwayat">#F9F9F9</color>
+    <color name="background_status_bar">#34FFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="mata_mata_create">#f48f8f</color>
+    <color name="mata_close_button">#4a4a4a</color>
+    <color name="mata_unggah_text">#4a4a4a</color>
+    <color name="mata_line">#f8f8f8</color>
+    <color name="mata_line2">#eeeeee</color>
+    <color name="hashtag_judul">#4a4a4a</color>
+    <color name="red_button">#ef5350</color>
+    <color name="bottom_navigation_color">#4a4a4a</color>
+    <color name="bottom_navigation_selected_color">#ef5350</color>
+
+    <color name="simpletooltip_background">@color/colorAccent</color>
+    <color name="simpletooltip_text">@android:color/primary_text_light</color>
+    <color name="simpletooltip_arrow">@color/colorAccent</color>
+    <color name="color_hint_tebak_angka">#D7D7D7</color>
+    <color name="color_button_red">#FFEF5350</color>
+    <color name="color_button_abu">#9B9B9B</color>
+    <color name="keyboard_background">#F5F5F5</color>
+
+    <color name="riwayat_belum_selesai">#9B9A9B</color>
+    <color name="riwayat_gagal">#D82121</color>
+    <color name="sivp_default_primary_color">#00b47c</color>
+    <color name="riwayat_berhasil">#29BD4F</color>
+    <color name="win_challenge_tebak_angka">#CD000000</color>
+
+</resources>

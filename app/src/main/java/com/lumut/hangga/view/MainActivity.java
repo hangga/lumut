@@ -3,6 +3,7 @@ package com.lumut.hangga.view;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.Toast;
@@ -53,6 +54,10 @@ public class MainActivity extends AppCompatActivity implements MainPresenter.Vie
 
     @Override
     public void showProgress(boolean isShow) {
-
+        if (isShow){
+            mainProgress.setVisibility(View.VISIBLE);
+        } else {
+            mainProgress.setVisibility(View.GONE);
+        }
     }
 }

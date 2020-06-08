@@ -2,6 +2,7 @@ package com.lumut.hangga.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
 
@@ -18,6 +19,17 @@ public class DetailActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detail);
         initViews();
+        initDatafromIntent(getIntent());
+    }
+
+    void initDatafromIntent(Intent myIntent){
+        int id = myIntent.getIntExtra("id", 0);
+        int userid = myIntent.getIntExtra("userid", 0);
+        String title = myIntent.getStringExtra("title");
+        boolean completed = myIntent.getBooleanExtra("completed", false);
+        txtLink.setText("Id : "+ String.valueOf(id)+ ", User Id : "+String.valueOf(userid));
+        txtTitle.setText(title);
+        txtSnipet.setText("completed : "+String.valueOf(completed));
     }
 
     void initViews(){
